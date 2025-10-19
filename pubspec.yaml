@@ -1,0 +1,16 @@
+name: vaxp_list
+description: The core algorithm arsenal from vaxp. A high-performance, production-ready Dart library with 40+ algorithms for sorting, searching, and list manipulation.
+version: 0.1.0
+repository: https://github.com/vaxp/vaxp_list
+homepage: https://vaxp.org
+license: MIT
+environment:
+  sdk: ^3.7.2
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
